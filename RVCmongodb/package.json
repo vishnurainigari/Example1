@@ -1,0 +1,7 @@
+{
+  "version":"1.0.0",
+  "scripts":{"start":"node app.js"},
+  "dependencies":{"mongodb":"*"},
+  "name":"hellomongo",
+  "description":"This is a Bluemix demo"
+}
